@@ -22,8 +22,13 @@ Run the code using python 3
 
 ### Task 1
 Here are some graphs from the probabilities of generation for the llama2 model with different early exit layers.
+Input: "Calculate the atomic mass for lithium."
 ![Assignment2](figure1.png)
+
+Input: "Brainstorm 3 possible ideas to promote the following product: New motorized skateboard"
 ![Assignment2](figure2.png)
+
+Input: "List three potential sources for the following research problem: What are the benefits of online learning?"
 ![Assignment2](figure3.png)
 ### Task 2
 
