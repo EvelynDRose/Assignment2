@@ -22,6 +22,8 @@ Run the code using python 3
 
 ### Task 1
 Here are some graphs from the probabilities of generation for the llama2 model with different early exit layers.
+
+
 Input: "Calculate the atomic mass for lithium."
 ![Assignment2](figure1.png)
 
@@ -33,17 +35,12 @@ Input: "List three potential sources for the following research problem: What ar
 ### Task 2
 
 ### Task 3
-+----------+----------+-----------+-------------+
 | Layer    |     BLEU |   Rogue-L |   BERTScore |
-+==========+==========+===========+=============+
+| -------- | -------- | --------- | ----------- |
 | Layer 8  | 0.503511 |  0.478649 |    0.896649 |
-+----------+----------+-----------+-------------+
 | Layer 16 | 0.486005 |  0.427759 |    0.900098 |
-+----------+----------+-----------+-------------+
 | Layer 24 | 0.500413 |  0.528797 |    0.901518 |
-+----------+----------+-----------+-------------+
 | Layer 32 | 0.54229  |  0.575457 |    0.93543  |
-+----------+----------+-----------+-------------+
 
 
 ## References  
