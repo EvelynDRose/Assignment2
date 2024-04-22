@@ -22,9 +22,9 @@ Run the code using python 3
 
 ### Task 1
 Here are some graphs from the probabilities of generation for the llama2 model with different early exit layers.
-!(figure1.png)
-!(figure2.png)
-!(figure3.png)
+![Assignment2](figure1.png)
+![Assignment2](figure2.png)
+![Assignment2](figure3.png)
 ### Task 2
 
 ### Task 3
