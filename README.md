@@ -35,7 +35,15 @@ Input: "List three potential sources for the following research problem: What ar
 
 
 ### Task 2
+For this I just asked chatgpt from our assignment1a given context, which will be the answer given from the database, and ask if the generated output is correct. If it is, then add to a sum and divide by the number of questions at the end. Here are the results: 
+| Layer    |     BLEU |
+| -------- | -------- |
+| Layer 8  | 0 |
+| Layer 16 | 0 |
+| Layer 24 | 0 |
+| Layer 32 | 30% |
 
+The results for this are pretty bad and Im sure its because I didnt train the LLM correctly.
 
 
 ### Task 3
